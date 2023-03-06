@@ -73,10 +73,10 @@ const Login = () => {
                                 minLength: { value: 6, message: 'Password must be 6 characters or longer' }
                             })}
                             className="input input-bordered w-full max-w-xs" />
-                        <label className="label"> <span className="label-text">Forget Password?</span></label>
+                       
                         {errors.password && <p className='text-red-600'>{errors.password?.message}</p>}
                     </div>
-                    <input className='btn btn-primary w-full' value="Login" type="submit" />
+                    <input className='btn btn-primary w-full mt-3' value="Login" type="submit" />
                     <div>
                         {loginError && <p className='text-red-600'>{loginError}</p>}
                     </div>

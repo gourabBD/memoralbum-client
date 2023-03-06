@@ -85,7 +85,7 @@ const SignUp = () => {
             <input
               type="text"
               {...register("name", {
-                required: "Name is Required",
+                required: "Name is required",
               })}
               className="input input-bordered w-full max-w-xs"
             />
@@ -101,7 +101,7 @@ const SignUp = () => {
             <input
               type="email"
               {...register("email", {
-                required: true,
+                required: "Email is required",
               })}
               className="input input-bordered w-full max-w-xs"
             />
