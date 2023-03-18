@@ -9,7 +9,7 @@ const EachImage = () => {
   useEffect(() => {
     fetch(`https://memoralbum-server.vercel.app/images/${user?.email}`)
       .then((res) => res.json())
-      .then((data) => setEachImage(data));
+      .then((data) => setEachImage(data.sort((a, b) => a - b)?.reverse()));
   }, [eachImage]);
 
   const handleDelete = (id) => {
