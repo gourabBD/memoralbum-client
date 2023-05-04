@@ -23,6 +23,10 @@ External Plugins
 # Environmental variables
 # Authentication system(Firebase)
 
+Live site link: https://memoralbum-a1439.web.app/
+
+Server Github link: https://github.com/gourabBD/memoralbum-server
+
 # Screen shots: 
 
 ![screencapture-memoralbum-a1439-web-app-images-2023-05-04-21_21_03](https://user-images.githubusercontent.com/67328861/236253486-1c1703fa-814b-43d0-af63-9f464e452c08.png)
