@@ -2,26 +2,26 @@ Features:
 # Users can create their own account and can login 
 # Users can upload and store images with title and also can delete images.
 
- Client
+Client
 
 # React
-#Hooks & ContextAPI
-#JavaScript
-#Tailwind
-#imgbb(For uploading an image from the device and get the image address for the database)
+# Hooks & ContextAPI
+# JavaScript
+# Tailwind
+# imgbb(For uploading an image from the device and get the image address for the database)
 
- Server
+Server
 
-#NodeJs(Express)
-#MongoDB
-#JavaScript
+# NodeJs(Express)
+# MongoDB
+# JavaScript
 
- External Plugins
+External Plugins
 
-#React router DOM
-#imgbb
-#Environmental variables
-#Authentication system(Firebase)
+# React router DOM
+# imgbb
+# Environmental variables
+# Authentication system(Firebase)
 
 # Screen shots: 
 
